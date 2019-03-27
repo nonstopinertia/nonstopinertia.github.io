@@ -33,3 +33,5 @@ We are inventing and learning in a fast-paced, dynamic environment. We will stri
 ACLU staff members voiced displeasure over the board policy on non-disparagement agreements that few employees seemed familiar with and asked that sample language be provided. Many staff also commented on the hypocrisy of the ACLU's public stance while also employing these agreements. Documentation from the staff handbook argues that these agreements might even be in the best interest of the employee though the organization's external comments would argue the opposite.
 
 [Memorandum from ACLU National Board of Directors on Nondisparagement Clauses](https://github.com/nonstopinertia/nonstopinertia.github.io/blob/master/2014-04-15_SANC_Report_to_NB.pdf)
+***
+Got something to add: nonstopinertia@protonmail.com
