@@ -34,7 +34,7 @@ ACLU staff members voiced displeasure over the board policy on non-disparagement
 
 [Memorandum from ACLU National Board of Directors on Nondisparagement Clauses](https://github.com/nonstopinertia/nonstopinertia.github.io/blob/master/2014-04-15_SANC_Report_to_NB.pdf)
 ***
-### An email from the COO claiming the terminated employees were accidentally given NDAs
+### An email from the COO claiming the terminated employees were accidentally given NDAs sent the afternoon of March 27th
 All:
 
 Thank you for the meeting today. For your candor and your suggestions re: solutions. I know that there are many different conversations we need to have over the next days and weeks, but I wanted to address immediately the important concern that was raised about non-disparagement clauses. In the unfortunate situations where the ACLU terminates employees as part of a layoff or reorganization, we do not include in termination agreements non-disparagement clauses (these are clauses that state that the ACLU and the person laid off will not disparage the reputation or name of the other). During office hours this morning, someone raised the fact that the employees who were laid off this week were given termination agreements that did include those clauses. These were unintentionally included by our outside employment counsel, and we are reaching out to those former employees and apologizing for having included them. This is a mistake that I own and that did not involve the in house counsel team.
