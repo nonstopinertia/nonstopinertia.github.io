@@ -42,5 +42,6 @@ Thank you for the meeting today. For your candor and your suggestions re: soluti
 I am asking you to please forward this email to your teams if you think this would be a helpful clarification.
 
 Best regards, 
+
 ***
 Got something to add: nonstopinertia@protonmail.com
